@@ -167,6 +167,14 @@ select{
         width: 50%;   
   }
 }
+@media (max-width: 480px) {  
+    .conteneur{
+        width: 340px;    
+    }
+    .test{
+        width: 330px;  
+}
+}
 @media (max-width: 430px) {  
     .conteneur{
         width: 330px;    
@@ -178,17 +186,17 @@ select{
 @media (max-width: 375px) {  
     .conteneur{   
         padding: 20px;
-        width: 300px;    
+        width: 290px;    
     }
     .test{
-        width: 290px; 
+        width: 280px; 
 }
 }
 @media (max-width: 320px) {
     .test{
-        width: 270px;
+        width: 260px;
     }
     .conteneur{
-        width: 260px;
+        width: 250px;
     }
 }
