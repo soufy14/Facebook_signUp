@@ -8,4 +8,3 @@
 ### le git page:
 
 - le projet est responsive (Desktop et Mobile).
-- Duré 3 jours.
